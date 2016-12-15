@@ -35,6 +35,12 @@ PHP 语法学习笔记
 - 流程控制：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/structures/structures.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/structures/structures.php)
 - 函数：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/functions/functions.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/functions/functions.php)
 - oop：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/oop/oop.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/oop/oop.php)
+- 命名空间：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/namespaces/namespaces.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/namespaces/namespaces.php)
+- errors：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/errors/errors.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/errors/errors.php)
+- exceptions：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/exceptions/exceptions.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/exceptions/exceptions.php)
+- generators：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/generators/generators.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/generators/generators.php)
+- references：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/references/references.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/references/references.php)
+- 预定义变量：[https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/reserved/variables.php](https://github.com/BaoBeiDaoDao/PHPnote/blob/master/langref/reserved/variables.php)
 
 ---
 
